@@ -1,0 +1,15 @@
+name: ex1_widgets_layouts
+description: Flutter Experiment 1
+
+environment:
+  sdk: '^3.13.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  intl: ^0.19.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/

@@ -1,0 +1,15 @@
+name: ex3
+description: Flutter Experiment 3
+
+environment:
+  sdk: '^3.13.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  intl: ^0.19.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
