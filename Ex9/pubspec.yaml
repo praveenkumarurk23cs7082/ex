@@ -1,0 +1,15 @@
+
+name: ex9
+description: Flutter Experiment 9
+
+environment:
+  sdk: '^3.13.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: any
+  cloud_firestore: any
+
+flutter:
+  uses-material-design: true

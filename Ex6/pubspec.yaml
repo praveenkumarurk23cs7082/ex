@@ -1,0 +1,14 @@
+name: ex6
+description: Flutter Experiment 6
+
+environment:
+  sdk: '^3.13.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  path: ^1.9.1
+  sqflite: ^2.4.2
+
+flutter:
+  uses-material-design: true
